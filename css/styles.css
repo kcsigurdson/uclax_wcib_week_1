@@ -19,6 +19,13 @@ body {
     color: #c8c8c8;
     margin-top: 10px;
     margin-bottom: 0px; }
+  body h4 {
+    color: red; }
+    body h4 span {
+      background: yellow;
+      color: black;
+      padding-left: 10px;
+      padding-right: 10px; }
   body p {
     color: #c8c8c8;
     padding-right: 30px; }
